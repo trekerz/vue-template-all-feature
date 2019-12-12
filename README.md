@@ -1,4 +1,6 @@
-# test2
+# vue-template-all-feature
+
+router、vuex、less、typescript、pwa、unit-mocha
 
 ## Project setup
 ```
